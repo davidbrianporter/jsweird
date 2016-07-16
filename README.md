@@ -1,2 +1,2 @@
-# jsweirdparts
+# jsweird
 JavaScript the Weird Parts
