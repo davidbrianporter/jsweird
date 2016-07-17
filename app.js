@@ -10,4 +10,10 @@ function a() {
 
 var myVar = 1;
 a();
-a().b();
+
+{
+//    console.log(e);
+    let e = "I exist";
+    console.log(e);
+}
+//console.log(e);
