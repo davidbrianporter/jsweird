@@ -1,19 +1,10 @@
-function a() {
-
-    function b() {
-        console.log(myVar);
-    }
-
-    var myVar = 2;
-    b();
+var objectLiteral = {
+    firstName: "David",
+    isProgrammer: true
 }
 
-var myVar = 1;
-a();
+console.log(JSON.stringify(objectLiteral));
 
-{
-//    console.log(e);
-    let e = "I exist";
-    console.log(e);
-}
-//console.log(e);
+var jsonValue = JSON.parse('{ "firstName": "david", "isProgrammer": true }');
+
+console.log(jsonValue);
