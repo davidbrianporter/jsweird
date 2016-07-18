@@ -5,4 +5,4 @@
 // 3 - bool
 // 4 - number - ***floating point ?
 // 5 - string
-// 6 - ***symbol ? - ES6
+// 6 - ***symbol ? - ES6 
