@@ -5,7 +5,14 @@ Lecture 36, passing by REFERENCE and VALUE, the concept is easy and familiar
 * I would like to go back and memorize the code examples
 * Also take a closer look at by value as a parameter
 
-Lecture 37, 
+Lecture 37, self
+
+Lecture 38, arrays can hold many different types, even functions
+
+Lecture 39 argument => SPREAD - the parameters passed to a function - can be used to retrieve the values
+
+Lecture 43 whitespace and comments make code easier to reads
+Lecture 44 IIEF
 
 # Syntax Parsars
 A program that reads my code and determines what it does and if my written syntax is valid
