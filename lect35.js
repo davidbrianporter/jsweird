@@ -4,15 +4,25 @@ function greet() {
     console.log('hi');
 }
 
-anonymousGreet();
-
 var anonymousGreet = function() {
     console.log('hi');
 }
 
-function log(a) {
+anonymousGreet();
+
+/*function log(a) {
     console.log(a);
+}*/
+
+var b = {
+    greeting: 'hi'
+};
+//log(b.greeting);
+
+function log(a) {
+   a();
 }
 
-var b = 3;
-log(b);
+log(function() {
+    console.log('Ima function inside a call to a function')
+});
