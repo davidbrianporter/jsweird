@@ -1,5 +1,11 @@
-# jsweird
-JavaScript the Weird Parts
+# JavaScript the Weird Parts
+This is my notes page for the course
+
+Lecture 36, passing by REFERENCE and VALUE, the concept is easy and familiar
+* I would like to go back and memorize the code examples
+* Also take a closer look at by value as a parameter
+
+Lecture 37, 
 
 # Syntax Parsars
 A program that reads my code and determines what it does and if my written syntax is valid
