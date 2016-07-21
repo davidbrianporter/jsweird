@@ -14,6 +14,8 @@ Lecture 39 argument => SPREAD - the parameters passed to a function - can be use
 Lecture 43 whitespace and comments make code easier to reads
 Lecture 44 IIEF
 
+Closures are important and must be understood fully!
+
 # Syntax Parsars
 A program that reads my code and determines what it does and if my written syntax is valid
 
