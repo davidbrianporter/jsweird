@@ -14,7 +14,11 @@ Lecture 39 argument => SPREAD - the parameters passed to a function - can be use
 Lecture 43 whitespace and comments make code easier to reads
 Lecture 44 IIEF
 
+Lecture 46
+A closure is a function value created from a nested function declaration or function expression(lambda expression)
+whose body contains one or more references to variables declared in an outer (but not global) scope
 Closures are important and must be understood fully!
+A closure is what the javascript env does when accessing 
 
 # Syntax Parsars
 A program that reads my code and determines what it does and if my written syntax is valid
